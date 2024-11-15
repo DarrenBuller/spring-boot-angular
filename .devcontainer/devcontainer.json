@@ -34,7 +34,8 @@
 				"alexiv.vscode-angular2-files",
 				"esbenp.prettier-vscode",
 				"dbaeumer.vscode-eslint",
-				"shardulm94.trailing-spaces"
+				"shardulm94.trailing-spaces",
+				"GitHub.vscode-github-actions"
 			]
 		}
 	}
