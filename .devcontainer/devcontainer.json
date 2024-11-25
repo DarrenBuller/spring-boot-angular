@@ -35,7 +35,8 @@
 				"esbenp.prettier-vscode",
 				"dbaeumer.vscode-eslint",
 				"shardulm94.trailing-spaces",
-				"GitHub.vscode-github-actions"
+				"GitHub.vscode-github-actions",
+				"lextudio.restructuredtext"
 			]
 		}
 	}
